@@ -1,0 +1,17 @@
+/*
+******
+napisz metode ktora dostaje jakjo parametr int[]
+metoda ma drukować domki (a najlepiej zapisywać do Stringa) odpowiednich wysokości. Liczby reprezentują wysokość domku.
+
+Przykład
+
+{2,1,4,1}
+
+       _
+      | |
+ _    | |
+| | _ | | _
+|2||1||4||1|
+
+
++ testy
